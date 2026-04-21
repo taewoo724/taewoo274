@@ -31,5 +31,5 @@
 ---
 
 ### 📫 Contact
-* **Email:** [학교메일 또는 개인메일]
-* **Blog:** [티스토리/Velog 등 주소]
+* **Email:** [taewoo@hs.ac.kr]
+
